@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-1-Yacht-Adventures/",
+    "build": "vite build --base=/yahta-test/",
     "preview": "vite preview"
   },
   "devDependencies": {
